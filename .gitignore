@@ -1,0 +1,48 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+dist-ssr/
+*.local
+
+# Vite cache
+.vite/
+.cache/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Env files (API keys etc.)
+.env
+.env.local
+.env.*.local
+
+# Coverage
+coverage/
+*.lcov
+
+# Optional: lock files if you don’t want them in repo
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Chrome extension specific
+*.crx
+*.pem
