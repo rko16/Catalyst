@@ -1,0 +1,23 @@
+
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Catalyst Assistant</title>
+  <style>
+    body{font-family: Arial; padding:10px; width:300px}
+    input[type=text]{width:100%; padding:8px; margin:6px 0}
+    button{padding:8px; width:100%; margin-top:6px}
+    .info{font-size:12px; color:#555; margin-top:8px}
+  </style>
+</head>
+<body>
+  <h3>Catalyst Assistant</h3>
+  <label>OpenAI API Key:</label>
+  <input id="apiKey" type="text" placeholder="sk-..."/>
+  <button id="save">Save API Key</button>
+  <button id="toggle">Toggle Sidebar</button>
+  <div class="info">Your API key is stored in extension storage only.</div>
+  <script src="popup.js"></script>
+</body>
+</html>

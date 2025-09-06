@@ -4,7 +4,7 @@
 
 ### Vision
 
-Hum ek aisi duniya me jee rahe hain jahan insaan ko roz system ke chakkar me atakna padta hai —
+Hum ek aisi duniya me jee rahe hain jahan insaan ko roz system ke chakkar me atakna padta hai -
 forms, govt sites, repetitive workflows, aur upar se constant stress.
 _Catalyst_ ka aim hai insaan ko unhi systems se free karna.
 

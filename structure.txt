@@ -1,0 +1,22 @@
+/Users/ramkrishna/Downloads/Catalyst
+├── .git
+├── README_EXTENSION.md
+├── README_EXTENSION_TS.md
+├── dist
+├── manifest.json
+├── node_modules
+├── package-lock.json
+├── package.json
+├── popup.html
+├── popup.js
+├── public
+├── readme.md
+├── sidebar.css
+├── src
+├── stats.html
+├── structure.txt
+├── tsconfig.json
+└── vite.config.ts
+
+directory: 5 file: 13
+
